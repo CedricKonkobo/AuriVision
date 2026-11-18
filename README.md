@@ -1,12 +1,16 @@
-<!-- Add assets/banner.png (1280 × 400), then uncomment the next line. -->
-<!-- <img src="assets/banner.png" alt="AuriVision" width="100%"> -->
+<img src="assets/banner.png" alt="AuriVision: real-time obstacle guidance for blind people" width="100%">
 
 # AuriVision: computer-vision guidance prototype for blind people
 
 A prototype that watches a camera feed, detects obstacles with YOLOv8, estimates how far and how dangerous they are, and turns this into short guidance instructions for a blind person. It won 1st place at Actionner 2.0 (ENSAM entrepreneurship competition, 2026).
 
-![Status](https://img.shields.io/badge/status-prototype-E07B00?style=flat-square)
+![Status](https://img.shields.io/badge/status-prototype-A65200?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10+-102A6E?style=flat-square&logo=python&logoColor=white)
+![Award](https://img.shields.io/badge/Actionner_2.0-1st_place-102A6E?style=flat-square)
+
+[![How it works](https://img.shields.io/badge/How_it_works-Architecture-102A6E?style=for-the-badge)](#solution--architecture)
+[![Docs](https://img.shields.io/badge/Docs-Documentation-1E5BD8?style=for-the-badge)](docs/)
+[![Run it](https://img.shields.io/badge/Run_it-Locally-102A6E?style=for-the-badge&logo=python&logoColor=white)](#run-it-locally)
 
 <!-- Demo: record a 5–10 s GIF (< 5 MB) of the live demo, save it as assets/demo.gif, then uncomment.
 <p align="center">
@@ -111,4 +115,4 @@ AuriVision/
 
 ---
 
-**Cédric Konkobo** · AI & Data Engineering, ENSAM Rabat · [GitHub](https://github.com/CedricKonkobo)
+**Cédric Konkobo** · AI & Data Engineering, ENSAM Rabat · [GitHub](https://github.com/CedricKonkobo) · [LinkedIn](https://www.linkedin.com/in/VOTRE-PROFIL)
