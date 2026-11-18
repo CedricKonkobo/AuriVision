@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+aurivision_env/
+.env
+*.egg-info/
+# Poids de modèles (yolov8n.pt est téléchargeable via Ultralytics)
+models/*.pt
+models/*.onnx
+# Sorties générées
+output/
+runs/
+
+# Dossier archive (non versionné)
+archive/
